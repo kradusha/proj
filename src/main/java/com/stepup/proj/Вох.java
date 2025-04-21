@@ -11,7 +11,7 @@ public class Вох {
         this.size = size;
     }
 
-    public Box() {
+    public Вох() {
 
     }
 

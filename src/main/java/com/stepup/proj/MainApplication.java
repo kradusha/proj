@@ -7,5 +7,7 @@ public class MainApplication {
     }
     public static void doSomething() {
         System.out.println(5);
+        System.out.println(7);
+        System.out.println(9);
     }
 }

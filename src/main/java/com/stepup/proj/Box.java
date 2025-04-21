@@ -1,6 +1,6 @@
 package com.stepup.proj;
 
-public class Вох {
+public class Box {
     private int size;
 
     public int getSize() {
@@ -11,11 +11,11 @@ public class Вох {
         this.size = size;
     }
 
-    public Вох() {
+    public Box() {
 
     }
 
-    public Вох(int size) {
+    public Box(int size) {
         this.size = size;
     }
 
